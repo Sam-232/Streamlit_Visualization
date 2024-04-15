@@ -1,0 +1,7 @@
+altair==5.3.0
+matplotlib==3.5.1
+pandas==2.0.2
+plotly==5.15.0
+pydeck==0.8.1b0
+streamlit==1.31.1
+streamlit_dynamic_filters==0.1.6
